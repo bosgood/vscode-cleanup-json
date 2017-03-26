@@ -17,7 +17,7 @@
     "contributes": {
         "commands": [{
             "command": "extension.unescapeAndFormatJSON",
-            "title": "Hello World"
+            "title": "Unescapes and formats JSON"
         }]
     },
     "scripts": {
